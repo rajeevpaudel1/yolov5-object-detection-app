@@ -14,7 +14,7 @@ A lightweight, browser-based object detection app using a custom-trained YOLOv5 
 
 ## ✨ Features
 
-* Upload single or multiple images
+* Upload single
 * Detect objects with bounding boxes
 * Show class names and confidence scores
 * Export detection results as JSON
