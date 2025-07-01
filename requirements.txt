@@ -1,0 +1,13 @@
+fastapi
+gradio
+pandas
+uvicorn
+torch
+torchvision
+Pillow
+numpy
+python-multipart
+opencv-python
+requests
+matplotlib
+seaborn
